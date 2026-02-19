@@ -35,3 +35,6 @@ El flujo de trabajo de X-FILTR sigue las fases profesionales de un Pentest:
     Pruebas ejecutadas en entornos controlados como TryHackMe, HackTheBox y máquinas Metasploitable.
 
     Auditoría de aplicaciones web utilizando el OWASP Top 10 y herramientas como Burp Suite.
+
+
+    Advertencia: Este proyecto tiene fines estrictamente educativos y de investigación ética. El uso de estas herramientas en sistemas sin autorización previa es ilegal.
