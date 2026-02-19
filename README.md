@@ -1,0 +1,1 @@
+X-FILTR es la unidad de investigación ofensiva de K-VØID Labs. Se especializa en el desarrollo de vectores de ataque, técnicas de post-explotación y la simulación de exfiltración de datos bajo entornos controlados. El objetivo primordial es validar la resiliencia de las infraestructuras mediante la ejecución de tácticas reales de adversarios.
